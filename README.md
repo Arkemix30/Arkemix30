@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Enmanuel Silva</h1>
 
 <p style="text-align: justify;">
-As a highly disciplined and self-taught Backend Developer I have over 2 years of experience building RESTful and GraphQL APIs, as well as microservices using a variety of cutting-edge technologies including Django, FastAPI, Flask, Actix-Web (Rust), Kafka, Redis, ScyllaDB, PostgreSQL, Protocol Buffers, and gRPC.
+As a highly disciplined and self-taught Backend Developer I have over 4 years of experience building RESTful and GraphQL APIs, as well as microservices using a variety of cutting-edge technologies including Django, FastAPI, Flask, Actix-Web (Rust), Kafka, Redis, ScyllaDB, PostgreSQL, Protocol Buffers, and gRPC.
 </p>
 <p style="text-align: justify;">
 Having finished the Computer Engineering career, I am passionate about continuously learning and adapting to new technologies in the market. With a strong commitment to staying ahead of the curve, I am able to quickly and effectively learn new tools and programming languages as required. 
